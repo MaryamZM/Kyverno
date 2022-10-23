@@ -1,5 +1,3 @@
-## Policy to warn over resource limits. It is always recommended defining resource limits.
-## https://kubernetes.io/docs/concepts/configuration/manage-resources-containers/#requests-and-limits
 
 apiVersion: kyverno.io/v1
 kind: ClusterPolicy
